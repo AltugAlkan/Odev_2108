@@ -10,3 +10,15 @@ C:\Users\alkan\source\repos\Odev_2108\Odev_2108\bin\Debug\Odev_2108.pdb
 C:\Users\alkan\source\repos\Odev_2108\Odev_2108\obj\Debug\Odev_2108.exe
 C:\Users\alkan\source\repos\Odev_2108\Odev_2108\obj\Debug\Odev_2108.pdb
 C:\Users\alkan\source\repos\Odev_2108\Odev_2108\obj\Debug\Odev_2108.KimlikKartiArka.resources
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\bin\Debug\Odev_2108.exe.config
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\bin\Debug\Odev_2108.exe
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\bin\Debug\Odev_2108.pdb
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.csproj.AssemblyReference.cache
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.csproj.SuggestedBindingRedirects.cache
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.KimlikKarti.resources
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.KimlikKartiArka.resources
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.Properties.Resources.resources
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.csproj.GenerateResource.cache
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.csproj.CoreCompileInputs.cache
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.exe
+C:\Users\alkan\OneDrive\Belgeler\GitHub\Odev_2108\Odev_2108\obj\Debug\Odev_2108.pdb
